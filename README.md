@@ -3,7 +3,7 @@
 
 <h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Prakhara <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
-
+A ML engineer passionate about Machine learning.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing,:new: Innovation and Automation :robot: 
 
 I'm a Computer Science Enthusiast  👨‍💻, Currently in the final year at DIT University 👨‍🎓
 
@@ -16,21 +16,27 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in the final year at D
 
 
 <div>
-  <h3> 💻 Languages and Tools </h3>
-  <p>
-   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
-  <p>
-</div> 
+  
+  <h3 align="center"> 💻 Languages and Tools </h3>
+    <p align="center">
+   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50">&nbsp;&nbsp;
+   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">&nbsp;&nbsp;
+   <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50">&nbsp;&nbsp;
+   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">&nbsp;&nbsp;
+    <p>
+  
+<div>
 
 
+<hr \>
 <p align="center">
 <a href="https://www.kaggle.com/prakharakumar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" alt="prakharakumar" height="30" width="30" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/prakhara-kumar-651887193/" alt="Linkedin"><img align="center" src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
-<a href="https://www.instagram.com/prakhara01k/" alt="Facebook"><img align="center" src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png"  alt="prakhara01k" height="30" width="30"></a>
-<a href="mailto:kumarprakhara01@gmail.com" alt="Contact me"><img align="center" src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a> 
-
+<a href="https://www.linkedin.com/in/prakhara-kumar-651887193/" alt="Linkedin"><img align="center" src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/prakhara01k/" alt="Facebook"><img align="center" src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png"  alt="prakhara01k" height="30" width="30"></a>&nbsp;&nbsp;
+<a href="mailto:kumarprakhara01@gmail.com" alt="Contact me"><img align="center" src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>&nbsp;&nbsp;
 </a>
 </p>
+<hr \>
 
+✌ By [prakhara-kumar](https://github.com/prakhara-kumar)
 
-⭐️ From [prakhara-kumar](https://github.com/prakhara-kumar)
