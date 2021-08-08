@@ -16,9 +16,9 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in the final year at D
 
 
 <p align="center">
+<a href="https://www.kaggle.com/prakharakumar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" alt="prakharakumar" height="25" width="25" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/prakhara-kumar-651887193/" alt="Linkedin"><img align="center" src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
 <a href="https://www.instagram.com/prakhara01k/" alt="Facebook"><img align="center" src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png"  alt="prakhara01k" height="30" width="30"></a>
- <a href="https://www.kaggle.com/prakharakumar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" alt="prakharakumar" height="25" width="25" /></a>&nbsp;&nbsp;
 <a href="mailto:kumarprakhara01@gmail.com" alt="Contact me"><img align="center" src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a> 
 
 </a>
