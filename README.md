@@ -15,6 +15,14 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in the final year at D
 - ⚡ There was an idea ....
 
 
+<div>
+  <h3> 💻 Languages and Tools </h3>
+  <p>
+   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+  <p>
+</div> 
+
+
 <p align="center">
 <a href="https://www.kaggle.com/prakharakumar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" alt="prakharakumar" height="30" width="30" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/prakhara-kumar-651887193/" alt="Linkedin"><img align="center" src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
